@@ -1,0 +1,18 @@
+.e1,
+.e3{
+    background-color: #00538b;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.e2 .p1{
+    color: red;
+    text-decoration: underline;
+}
+span{
+    text-decoration:line-through;
+}
+p2{
+    color: red;
+}
+

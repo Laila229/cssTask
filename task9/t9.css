@@ -1,0 +1,7 @@
+div{
+    height: 100px;
+    background: linear-gradient(45deg , #a86aa4 50% , #cc6b8e 62% , #f3a469 87% , #f7c978 100%) ;
+    text-align:center;
+    padding: 50px 0 0 0;
+    font-size: 40px;
+}

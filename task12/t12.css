@@ -1,0 +1,21 @@
+table{
+    background-color: rgb(65, 168, 209);
+}
+thead{
+    background-color:rgb(252, 252, 178);
+    color: red;
+    font-size: 20px;
+    text-transform: capitalize;
+    
+}
+th{
+    
+    text-align: center;
+}
+td{
+    padding-left: 10px;
+    
+}
+tfoot{
+     text-align: center;
+}

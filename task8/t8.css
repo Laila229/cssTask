@@ -1,0 +1,8 @@
+h1{
+    color: red;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+div{
+    background: linear-gradient(to right, rgb(54, 3, 54) 50%, rgb(189, 6, 52) );
+}

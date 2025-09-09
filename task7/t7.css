@@ -1,0 +1,17 @@
+h1{
+    columns: red;
+}
+.s{
+    text-transform: capitalize;
+}
+span{
+    color: green;
+    text-decoration: underline;
+}
+div{
+    height: 30px;
+    background-image: url(t6.jpg);
+}
+.a2{
+    height: 70px;
+}

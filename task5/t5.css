@@ -1,0 +1,17 @@
+body{
+    background-image: url(t5.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a1{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.p2{
+    color: red;
+    text-decoration: underline;
+}
+span{
+    color: red;
+}
